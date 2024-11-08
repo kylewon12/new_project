@@ -1,14 +1,6 @@
 import random as r
 import math
 
-print("Kyle Won")
-
-print("Hamza Aslam")
-
-print("Melat Abera")
-
-print("Bereket Zeggai")
-
 
 game_board = {"kyle":[{"number":1,"suit":"hearts","player":"kyle"},{"number":3,"suit":"hearts","player":"kyle"},{"number":5,"suit":"spades","player":"kyle"}],
                "bill":[{"number":3,"suit":"hearts","player":"bill"},{"number":2,"suit":"hearts","player":"bill"},{"number":10,"suit":"diamonds","player":"bill"}],
