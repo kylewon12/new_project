@@ -1,14 +1,10 @@
 """
+...ignore this file kyle is doing something similar
 
-        *** MY STEPS ***
+*** MY STEPS ***
 - Create a Players class that creates an instance of players and each of their repected hands
     * It would return a dict that provides a key of player and a value of their hand
-
-
-
-        *** IMPORTANT RULES ***
-- Each heart card is 1pt.
-- The queen of spade (KILLER QUEEN) is worth 13 pt.
+    
 """
 
 import random
@@ -97,3 +93,4 @@ def run():
 
 for i in run():
     print(i.hand)
+    
